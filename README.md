@@ -10,6 +10,7 @@ The following is a description of the files
 3. lstm_models.py: Contains necessary function needed by 1. and 2.
 4. predict_values_a.py: Loads and evaluates the model to predict a values using the test set and plots the graph in images directory
 5. predict_values_r.py: Loads and evaluates the model to predict r values using the test set and plots the graph in images directory
-6. a_lstm: Saved trained model for predicting semi-major axis
-7. ar_lstm: Saved trained model for predicting aspect ratio
+6. lstm_models_working.py: Contains necessary function needed by 4. and 5.
+7. a_lstm: Saved trained model for predicting semi-major axis
+8. ar_lstm: Saved trained model for predicting aspect ratio
  
